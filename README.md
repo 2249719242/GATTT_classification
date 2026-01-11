@@ -100,7 +100,6 @@ python train_GAT__Trans_Only.py
 ## 6. 备注
 
 * 请先完成 **数据下载与预处理**，再运行训练脚本，否则会因缺少输入数据而报错。
-* 若你在 AutoDL/服务器上运行，请确保 CUDA、显卡驱动与 PyTorch 版本匹配，并正确配置环境变量（如 `CUDA_VISIBLE_DEVICES` 等）。
 
 ---
 
