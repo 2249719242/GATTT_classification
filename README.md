@@ -104,6 +104,3 @@ python train_GAT__Trans_Only.py
 ---
 
 如有问题欢迎提 Issue 或联系作者。
-
-```
-```
